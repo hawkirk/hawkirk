@@ -1,6 +1,6 @@
 ### harrison kirk (he/him)
 
-
+[@edanalytics](https://github.com/edanalytics) | madison, wi
 
 interested in policy, data, and programming
 
