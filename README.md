@@ -2,7 +2,7 @@
 
 [@edanalytics](https://github.com/edanalytics) | madison, wi
 
-interested in policy, data, and programming
+interested in policy, data, and technology
 
 - personal website: www.hawkirk.com
 - twitter: www.twitter.com/HarrisonAKirk
