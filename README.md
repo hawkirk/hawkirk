@@ -1,11 +1,11 @@
 ### harrison kirk (he/him)
 
-[@edanalytics](https://github.com/edanalytics) | madison, wi
+[@edanalytics](https://github.com/edanalytics) | Madison, WI
 
 interested in policy, data, and technology
 
 - personal website: www.hawkirk.com
-- twitter: www.twitter.com/HarrisonAKirk
+- twitter: www.twitter.com/hrrsnkrk
 - linkedin: www.linkedin.com/in/harrisonkirk/
 
 
