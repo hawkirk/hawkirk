@@ -6,7 +6,7 @@ Interested in data, technology, and policy.
 
 - Personal website: www.hawkirk.com
 - Twitter: www.twitter.com/hrrsnkrk
-- Linkedin: www.linkedin.com/in/harrisonkirk/
+- Linkedin: www.linkedin.com/in/hawkirk/
 
 
 <!---
