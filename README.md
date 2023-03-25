@@ -1,6 +1,6 @@
-### harrison kirk (he/him)
+### Harrison Kirk
 
-Interested in data, technology, and policy. 
+Interested in data, technology, and policy.
 
 - Website: [hawkirk.com](https://hawkirk.com/)
 - Resume: [hawkirk.com/cv](https://hawkirk.com/cv)
